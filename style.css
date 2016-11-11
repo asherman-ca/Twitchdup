@@ -261,7 +261,7 @@ section.intro, section.design, section.illustration, section.about {
 .intro .contentArea, .about .contentArea {
   width:550px;
   margin-left:-225px;
-  margin-top:5%;
+  margin-top:10%;
   position:absolute;;
   left:50%;
   height:auto;
