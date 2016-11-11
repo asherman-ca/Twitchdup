@@ -1,6 +1,13 @@
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 [class*="entypo-"]:before {  font-family: 'entypo', sans-serif;}
 
+img {
+    border-radius: 20%;
+    height: 250px;
+    width: 250px;
+    margin-bottom: 5%;
+}
+
 * { margin:0; padding:0;}
 body {
   background: url('http://i.imgur.com/uNSAd3p.png');
@@ -13,6 +20,10 @@ a { text-decoration:none; color:#F4f4f4;}
 a:hover, a:active { color:#FFF;}
 ul, li { list-style:none; }
 .hide { display:none;}
+
+ul {
+    padding-left: 5%;
+}
 
 h2 {
   text-shadow: 2px 2px 0px #f4f4f4, 4px 4px 0px rgba(30, 30, 30, 0.2);}
@@ -127,11 +138,11 @@ h2:hover, h2:active { color:red;}
     display:none;
   }
 }
-.navbar {
+.navbar {    
   background-color:#e34;
   color:#f4f4f4;
   box-shadow:0px 25px 50px #f4f4f4, inset 0px -3px 0px #c71f3c;
-  padding:20px;
+  padding:30px;
   overflow:hidden;
   z-index:1;
 }
@@ -250,7 +261,7 @@ section.intro, section.design, section.illustration, section.about {
 .intro .contentArea, .about .contentArea {
   width:550px;
   margin-left:-225px;
-  margin-top:200px;
+  margin-top:5%;
   position:absolute;;
   left:50%;
   height:auto;
