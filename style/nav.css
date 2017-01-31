@@ -13,8 +13,8 @@
 }
 
 .navtop {
-    width: 50%;
-    min-width: 960px;
+    /*width: 50%;*/
+    width: 960px;
     /*width: 50%;*/
     /*margin-left: 25%;*/
     height: 60px;
@@ -94,8 +94,8 @@
 .navbottom-content {
 
     height: 45px;
-    min-width: 960px;
-    width: 50%;
+    width: 960px;
+    /*width: 50%;*/
     /*margin-left: 25%;*/
     color: black;
     display: flex;

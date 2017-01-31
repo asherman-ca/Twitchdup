@@ -8,15 +8,17 @@
 }
 
 .footer-content {
-  width: 50%;
-  min-width: 960px;
+  /*width: 50%;
+  min-width: 960px;*/
+  width: 960px;
+  height: 220px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .footer img{
-    height: 70%;
+    height: 60%;
     width: 25%;
 }
 
