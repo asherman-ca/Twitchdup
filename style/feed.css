@@ -1,5 +1,4 @@
 .feed {
-    /*width: 51%;*/
     width: 960px;
     margin: 0 auto;
     margin-top: 50px;
@@ -25,7 +24,6 @@
 
 .top-text p {
     margin-left: 15px;
-    padding-top: 5px;
     font-family: sans-serif;
     font-size: 23px;
     opacity: .6;
@@ -38,12 +36,10 @@
     flex-direction: row;
     justify-content: flex-start;
     background: none;
-    /*align-items: center;*/
 }
 
 .featured-game {
     height: 270px;
-    /*width: 140px;*/
     width: 16.666%;
     padding: 10px;
     margin-bottom: 30px;

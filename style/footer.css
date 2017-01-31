@@ -8,8 +8,6 @@
 }
 
 .footer-content {
-  /*width: 50%;
-  min-width: 960px;*/
   width: 960px;
   height: 220px;
   display: flex;
@@ -23,7 +21,6 @@
 }
 
 .footer-text {
-    /*width: 65%;*/
     margin-left: 20px;
     display: flex;
     flex-direction: column;
