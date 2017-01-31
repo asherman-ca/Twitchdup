@@ -11,10 +11,15 @@
 }
 
 .bigscreen {
-    width: 50%;
-    min-width: 960px;
-    height: 60%;
-    margin-left: 10px;
+    /*min-width: 50%;*/
+
+    /*height: 60%;*/
+    /*margin-left: 10px;*/
+}
+
+.bigscreen img{
+  width: 50%;
+  min-width: 960px;
 }
 
 .carousel {
@@ -22,12 +27,18 @@
     min-width: 960px;
     height: 20%;
     display: flex;
+    justify-content: space-around;
 }
 
 .maintron .carousel {
-    padding-left: 5px;
+    /*padding-left: 5px;*/
 }
 
-.maintron-item {
+/*.maintron-item {
     width: 16.666%;
+}*/
+
+.maintron .carousel img{
+    width: 16.666%;
+    padding: 0 5px;
 }
