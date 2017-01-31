@@ -83,6 +83,7 @@
 
 .navbottom {
     width: 100%;
+
     height: 45px;
     background: #0e9dd9;
     display: flex;
@@ -94,7 +95,7 @@
 
     height: 45px;
     min-width: 960px;
-    /*width: 50%;*/
+    width: 50%;
     /*margin-left: 25%;*/
     color: black;
     display: flex;
